@@ -48,6 +48,14 @@ The full details of the requirements for this homework can be found in the direc
 
 ![9a6ab309734a1f8eb11eb716ac895e40](https://user-images.githubusercontent.com/89948865/160494360-85c945c0-44fb-4da6-9e6d-4beb4954fc7e.png)
 
+![5a7425fdffe4429315f3b5c8a60e32a0](https://user-images.githubusercontent.com/89948865/160494482-b4b9c996-885b-414e-ab2a-d5e3d0528f4f.png) 
+
+![c6896a0bc4f2c4302d72f8a79fad3ab6](https://user-images.githubusercontent.com/89948865/160494565-043662a2-63bd-4be1-9d69-9c49216e596d.png) 
+
+![f0d990fe23dbe5f4a60740e38b2482dc](https://user-images.githubusercontent.com/89948865/160494627-577377b8-8bf3-4f3d-8a35-ca00b2d879d6.png) 
+
+
+
 
 
 
