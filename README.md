@@ -16,7 +16,7 @@ The full details of the requirements for this homework can be found in the direc
 
 ## The “leaflet-challenge/starting-code-files/instructions” directory contains the directories / files submitted for assessment:
 * “README” and “Leaflet_Grading_Rubric” files containing the detailed instructions and grading assessment for the assignment,
-* “Images” directory containing the provided images of the required outputs for the assignment and the header image courtesy of UCLA,
+* “Images” directory contains the provided images of the required outputs for the assignment and the header image courtesy of UCLA,
 * “index-provided.html”: the HTML file that was provided as part of the starting code for the assignment,
 * “screenshots” directory containing screenshots of the outputs produced for the visualisations,
 * “index.html”: the HTML file that drives the “US Geological Survey: Earthquakes Data Visualisations for the Last 7 Days”,
