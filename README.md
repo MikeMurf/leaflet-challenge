@@ -15,14 +15,14 @@ The USGS wants you to plot a second data set on your map to illustrate the relat
 The full details of the requirements for this homework can be found in the directories / files detailed below. 
 
 ## The “leaflet-challenge/starting-code-files/instructions” directory contains the directories / files submitted for assessment:
-* “README” and “Leaflet_Grading_Rubric” files containing the detailed instructions and grading assessment for the assignment,
-* “Images” directory contains the provided images of the required outputs for the assignment and the header image courtesy of UCLA,
+* “README” and “Leaflet_Grading_Rubric”: files containing the detailed instructions and grading assessment for the assignment,
+* “Images” directory: the provided images of the required outputs for the assignment and the header image courtesy of UCLA,
 * “index-provided.html”: the HTML file that was provided as part of the starting code for the assignment,
-* “screenshots” directory containing screenshots of the outputs produced for the visualisations,
+* “screenshots” directory: the screenshots of the outputs produced for the visualisations,
 * “index.html”: the HTML file that drives the “US Geological Survey: Earthquakes Data Visualisations for the Last 7 Days”,
-* “static/js” directory that contains the “config.sys” file and the “logic.js” for the application invoked by the HTML,
+* “static/js” directory: the “config.sys” file and the “logic.js” for the application invoked by the HTML,
  	(NOTE: The “config.sys” file uses the default public key produced by Mapbox.)
-* “static/css” directory that contains the “style” CSS file used by the HTML,
+* “static/css” directory: the “style” CSS file used by the HTML,
 * “README-wip is a work in process README file produced with the Writage Word extension and used as the basis for the README file for the github repository. 
 
 ## Author: Mike Murphy
