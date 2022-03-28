@@ -38,3 +38,12 @@ The full details of the requirements for this homework can be found in the direc
 
 ![ffc5b22c3d645a7e250ed8925d05f3c3](https://user-images.githubusercontent.com/89948865/160493822-7cf51519-3854-42e0-8b19-6969fb0a8096.png) 
 
+![378902fd6afa08a600840bc5d6ea4cff](https://user-images.githubusercontent.com/89948865/160493936-6372117b-cd21-45d6-a72e-a056c569577e.png) 
+
+![6e283f6c2c1c8ff0a28976ee864e9d41](https://user-images.githubusercontent.com/89948865/160494055-2f833c44-4ed0-4f2c-9cb4-f9c407aac2e9.png)
+
+![ec76b178081f778de46369c4f932f325](https://user-images.githubusercontent.com/89948865/160494167-65b88131-68eb-4177-a81f-6e1802457216.png) 
+
+
+
+
