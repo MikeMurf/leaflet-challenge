@@ -27,18 +27,14 @@ The full details of the requirements for this homework can be found in the direc
 
 ## Author: Mike Murphy
 ## Tackling the Assignment
-###The assignment was tackled by combining the two USGS requirements and designing a solution to: -
-•	visualise an earthquake data set,
-•	to include popups providing information about the earthquake when a marker is clicked,
-•	to include a number of base maps to choose from,
-•	to separate two different data sets into overlays that can be turned on and off independently,
-•	to add layer controls to the map.
+### The assignment was tackled by combining the two USGS requirements and designing a solution to: -
+* visualise an earthquake data set,
+* to include popups providing information about the earthquake when a marker is clicked,
+* to include a number of base maps to choose from,
+* to separate two different data sets into overlays that can be turned on and off independently,
+* to add layer controls to the map. 
+
 ### Screenshots of the various outputs follow.
-![Map Description automatically generated](media/ffc5b22c3d645a7e250ed8925d05f3c3.png)
-![Map Description automatically generated](media/378902fd6afa08a600840bc5d6ea4cff.png)
-![Map Description automatically generated](media/6e283f6c2c1c8ff0a28976ee864e9d41.png)
-![Graphical user interface Description automatically generated](media/ec76b178081f778de46369c4f932f325.png)
-![Map Description automatically generated](media/63dd1d7b36264c8d235f2d36d8bae9df.png) ![Map Description automatically generated](media/9a6ab309734a1f8eb11eb716ac895e40.png)
-![Map Description automatically generated](media/5a7425fdffe4429315f3b5c8a60e32a0.png)
-![Map Description automatically generated](media/c6896a0bc4f2c4302d72f8a79fad3ab6.png)
-![Map Description automatically generated](media/f0d990fe23dbe5f4a60740e38b2482dc.png)
+
+![ffc5b22c3d645a7e250ed8925d05f3c3](https://user-images.githubusercontent.com/89948865/160493822-7cf51519-3854-42e0-8b19-6969fb0a8096.png) 
+
