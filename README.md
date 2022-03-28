@@ -1,5 +1,7 @@
 # leaflet-challenge
-![Map Description automatically generated](media/76d508fda657417b998fc2d4101249fe.png)
+![76d508fda657417b998fc2d4101249fe](https://user-images.githubusercontent.com/89948865/160492486-5e407f87-0d92-4540-aa66-29a101cee5d8.png)
+
+
 ##Visualising Earthquake Data with Leaflet
 ##### UCLA reference goes here
 ## Requirements
